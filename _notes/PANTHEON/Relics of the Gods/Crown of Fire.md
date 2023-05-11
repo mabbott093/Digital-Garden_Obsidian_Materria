@@ -1,0 +1,2 @@
+# Overview
+The Crown of Fire, or Coronam Ignis, is the origin of all life and to those select children of [[Primus Etundeus]], free will. A gift bestowed by [[Primus Etundeus]]  to the creatures and residence of the world. It is only [[Primus Etundeus]] that has this power and only he may give it. 

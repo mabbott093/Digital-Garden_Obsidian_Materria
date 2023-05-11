@@ -1,0 +1,44 @@
+# Common Ancestries - CORE
+- [[Dwarf]]
+- [[Elves]]
+- [[Gnomes]]
+- [[Goblins]]
+- [[Humans]]
+# Uncommon Ancestries
+- Azarketi
+- Catfolk
+- Fetchling
+- Gnoll
+- Grippli
+- Hobgoblin
+- Corruption of Valdimar
+- Once goblins
+- Used as Valdimar's foot soldiers/low officers
+- Kitsune
+- Kobold
+- Leshy
+- Lizardfolk
+- Nagaji
+- Orc
+- Corruption of Valdimar
+- Once humans
+- Used as Valdimar's foot soldiers/low officers
+- Ratfolk
+- Tengu
+- Vanara
+# Rare Ancestries
+- Anadi
+- Android
+- Automation
+- Conrasu
+- Fleshwarp
+- Ghoran
+- Goloma
+- Kashrishi
+- Poppet
+- Shisk
+- Shoony
+- Skeleton
+- Sprite
+- Strix
+- Vishkanya

@@ -1,0 +1,3 @@
+[[Valdimar]] sought to destroy the moons and claim the night. He with his enlisted [[Eietros]] attacked and killed [[Fengári]]. [[Fengári]]'s body was broken into a thousand thousand pieces and scattered across the night sky and thus formed the stars.
+
+[[Valdimar]] tried to kill the remaining moon, [[Luna]] but was unsuccessful. The [[Deorum]] that remained loyal to the vision of [[Primus Etundeus]] rallied and threw back [[Valdimar]]. [[Valdimar]] retreated to his fortress to rebuild his army.

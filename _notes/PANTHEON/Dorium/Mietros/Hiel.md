@@ -1,0 +1,63 @@
+> [!infobox]
+> # **DEITY**
+> [Image]
+> ###### **Basic Info**
+> | **Category** | **Info** |
+> | ---- | ---- |
+> | **Titles** | The Betrayer |
+> | **Domains/God of...** |  |
+> | **Adjective** |  |
+> | **Gender** |  |
+> | **Realm** | Hell |
+> | **Alignment** |  |
+> | **Edicts** |  |
+> | **Anathema** |  |
+> | **Favored Weapon** |  |
+> | **Symbol** |  |
+> | **Sacred Animal** |  |
+> | **Sacred Colors** |  |
+> ###### **Followers**
+> | **Category** | **Info** |
+> | ---- | ---- |
+> | **Worshipers** |  |
+> | **Temples** |  |
+> | **Cleric Alignments** |  |
+> | **Cleric Spells** |  |
+> | **Devine Ability** |  |
+> | **Devine Skill** |  |
+> ###### **Relationships**
+> | **Category** | **Info** |
+> | ---- | ---- |
+> | **Allies** |  |
+> | **Enemies** |  |
+
+# Overview
+
+## History
+
+## Relationships
+
+## Appearance & Personality
+
+## Realm
+
+## Servants
+
+### Notable Servants
+
+## Church of 
+
+### Worshipers
+
+### Clergy 
+
+### Temples & Shrines
+
+### Holy Sites
+
+### Holy Texts
+
+### Holidays
+
+
+
