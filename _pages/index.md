@@ -7,7 +7,7 @@ permalink: /
 
 # Welcome! 🌱
 
-This is a repository for all the open notes for the D&D world setting, Materria. This is meant to be used by players to learn more about the world that they play in and act as a wiki type database.
+This is a repository for all the open notes for the D&D world setting, Materria. This is meant to be used by players to learn more about the world that they play in and act as a wiki inspired database.
 
 <strong>Recently updated notes</strong>
 
